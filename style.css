@@ -1,0 +1,165 @@
+html{
+    scroll-behavior: smooth;
+}
+a{
+    color: black;
+    text-decoration: dotted;
+}
+.header>div>h1{
+    color: blue;
+    display: inline;
+}
+#mainlink{
+    margin-left: 1100px;
+    position: absolute;
+    top: 10px;
+}
+.links,.link{
+    padding-left: 15px;
+}
+.dropdown{
+    margin-left: 500px;
+    padding-left: 30px; 
+}
+input{
+    text-align: center;
+}
+.popular{
+    display: inline;
+}
+.popular>a{
+    padding-left: 20px;
+}
+a:hover{
+    color: blue;
+}
+a:active{
+    color: red;
+}
+.category{
+    display: flex;
+}
+.Categories>a>img{
+    height: 100px;
+    width: 100px;
+    border-radius: 10px;
+}
+.Categories{
+    padding-left: 130px;
+    padding-top: 50px;
+}
+#MobilesPhones{
+    display: flex;
+    padding-left: 40px;
+}
+#MobilesPhones>div{
+    border: 4px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+}
+#MobilesPhones>div>a>img{
+    height: 225px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#MobilesPhones>div:hover{
+    transform: translateY(-10px);
+}
+#Cars{
+    display: flex;
+    padding-left: 40px;
+}
+#Cars>div{
+    border: 4px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+}
+#Cars>div>a>img{
+    height: 225px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#Cars>div:hover{
+    transform: translateY(-10px);
+}
+#LandPlot{
+    display: flex;
+    padding-left: 40px;
+}
+#LandPlot>div{
+    border: 4px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+}
+#LandPlot>div>a>img{
+    height: 225px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#LandPlot>div:hover{
+    transform: translateY(-10px);
+}
+#Jobs{
+    display: flex;
+    padding-left: 40px;
+}
+#Jobs>div{
+    border: 4px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+}
+#Jobs>div>a>img{
+    height: 225px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#Jobs>div:hover{
+    transform: translateY(-10px);
+}
+#Animals{
+    display: flex;
+    padding-left: 40px;
+}
+#Animals>div{
+    border: 4px solid whitesmoke;
+    border-radius: 10px;
+    margin-left: 60px;
+    text-align: center;
+}
+#Animals>div>a>img{
+    height: 225px;
+    width: 225px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+#Animals>div:hover{
+    transform: translateY(-10px);
+}
+.footer{
+    display: flex;
+}
+.footer>div{
+    margin-left: 20px;
+    padding-left: 20px;
+}
+.follow{
+    position: absolute;
+    left: 500px;
+}
+.contact>a{
+    position: absolute;
+    font-size: 60px;
+    color: green;
+    margin-left: 93%;
+    margin-top: 43%;
+    position: fixed;
+}
+
